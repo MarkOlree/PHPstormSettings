@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="bitbucket.org/yoursurprisecom/yspeditor" value="MarkOlree" />
+      </map>
+    </option>
+  </component>
+</application>
