@@ -72,5 +72,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="vkbeautify" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_douwe.yoursurprise.nldev_html5-test_vkbeautify.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_douwe.yoursurprise.nldev_html5-test_vkbeautify.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
