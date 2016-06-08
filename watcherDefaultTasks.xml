@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="V:/checkout/html5-test/develop-source/sass/generateMain.cmd" />
+      <option name="program" value="$USER_HOME$/bin/phpstorm/yspeditor/sass/generateMain.cmd" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
