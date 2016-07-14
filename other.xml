@@ -7,6 +7,9 @@
             <id />
           </State>
           <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
             <id>JavaScript</id>
           </State>
           <State>
@@ -15,7 +18,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>BashSupport</id>
+            <id>JSAccessibilityCheck</id>
           </State>
         </selected-state>
       </profile-state>
